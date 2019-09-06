@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+# buildtime-single-spa
+buildtime-single-spa/dist
